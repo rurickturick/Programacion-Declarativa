@@ -2,7 +2,9 @@
 
  Prácticas de la asignatura Programación Declarativa de la Facultad de Informática de la Universidad Complutense
  
- El archivo  ResuelvePuzzles.hs contiene un programa desarrollado en Haskell, el cuál es capaz resolver Puzzles de 2x2  3x3 y hasta 4x4. ejemplo puzzle 2x2   
+ El archivo  ResuelvePuzzles.hs contiene un programa desarrollado en Haskell, el cuál es capaz resolver Puzzles de 2x2  3x3 y hasta 4x4.
+ 
+ ejemplo puzzle 2x2   
  
  |1|2|
   
